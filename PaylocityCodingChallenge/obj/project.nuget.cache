@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YzdHaDfSd9bfApm025pm3Zi2E/x9N4Y2zk0VxUTy7XzNfsEiau8x3MCXqaXfGJGG4czoiwAZd/uJkbdR8k9VGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gary L Russell\\Source\\Repos\\codingChallenge_v2\\PaylocityCodingChallenge\\PaylocityCodingChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gary L Russell\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\6.0.4\\microsoft.aspnetcore.authentication.negotiate.6.0.4.nupkg.sha512",
+    "C:\\Users\\Gary L Russell\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.4\\microsoft.aspnetcore.connections.abstractions.6.0.4.nupkg.sha512",
+    "C:\\Users\\Gary L Russell\\.nuget\\packages\\microsoft.extensions.features\\6.0.4\\microsoft.extensions.features.6.0.4.nupkg.sha512",
+    "C:\\Users\\Gary L Russell\\.nuget\\packages\\system.directoryservices.protocols\\6.0.1\\system.directoryservices.protocols.6.0.1.nupkg.sha512",
+    "C:\\Users\\Gary L Russell\\.nuget\\packages\\system.io.pipelines\\6.0.2\\system.io.pipelines.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

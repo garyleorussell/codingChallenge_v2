@@ -1,0 +1,15 @@
+C:\Users\Gary L Russell\Source\Repos\codingChallenge_v2\PaylocityCodingChallenge\obj\Release\net6.0\PubTmp\Out\PaylocityCodingChallenge.exe
+C:\Users\Gary L Russell\Source\Repos\codingChallenge_v2\PaylocityCodingChallenge\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Gary L Russell\Source\Repos\codingChallenge_v2\PaylocityCodingChallenge\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Gary L Russell\Source\Repos\codingChallenge_v2\PaylocityCodingChallenge\obj\Release\net6.0\PubTmp\Out\PaylocityCodingChallenge.dll
+C:\Users\Gary L Russell\Source\Repos\codingChallenge_v2\PaylocityCodingChallenge\obj\Release\net6.0\PubTmp\Out\PaylocityCodingChallenge.deps.json
+C:\Users\Gary L Russell\Source\Repos\codingChallenge_v2\PaylocityCodingChallenge\obj\Release\net6.0\PubTmp\Out\PaylocityCodingChallenge.runtimeconfig.json
+C:\Users\Gary L Russell\Source\Repos\codingChallenge_v2\PaylocityCodingChallenge\obj\Release\net6.0\PubTmp\Out\PaylocityCodingChallenge.pdb
+C:\Users\Gary L Russell\Source\Repos\codingChallenge_v2\PaylocityCodingChallenge\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\Users\Gary L Russell\Source\Repos\codingChallenge_v2\PaylocityCodingChallenge\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Gary L Russell\Source\Repos\codingChallenge_v2\PaylocityCodingChallenge\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Features.dll
+C:\Users\Gary L Russell\Source\Repos\codingChallenge_v2\PaylocityCodingChallenge\obj\Release\net6.0\PubTmp\Out\System.DirectoryServices.Protocols.dll
+C:\Users\Gary L Russell\Source\Repos\codingChallenge_v2\PaylocityCodingChallenge\obj\Release\net6.0\PubTmp\Out\System.IO.Pipelines.dll
+C:\Users\Gary L Russell\Source\Repos\codingChallenge_v2\PaylocityCodingChallenge\obj\Release\net6.0\PubTmp\Out\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Gary L Russell\Source\Repos\codingChallenge_v2\PaylocityCodingChallenge\obj\Release\net6.0\PubTmp\Out\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Gary L Russell\Source\Repos\codingChallenge_v2\PaylocityCodingChallenge\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
